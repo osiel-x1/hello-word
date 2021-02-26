@@ -1,0 +1,20 @@
+body {
+    background-image: url(pousadas-no-guaruja.jpg);
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    background-size: 100%;
+
+    
+}
+.address {
+    display: block;
+    border: solid 1px;
+    border-radius: 1rem;
+    width: 200px;
+    height: 200px;
+    background: white;
+    opacity: 0.8;
+    text-align: center;
+
+}
