@@ -11,3 +11,6 @@
 - fica o banco de dados 
 - você vai pode recupera aquivos 
 - na linha do tempo
+- tudo vem 
+- a vida e feita de mudanças
+
