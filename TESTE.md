@@ -1,1 +1,0 @@
-conhecimento colocar em prática

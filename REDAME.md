@@ -7,10 +7,6 @@
 - Idex
 - Stage tree
 
-# Repository (local)
-- Banco de dados dos nosssos aquivos 
-- fica na maquina
-
 # No aquivo final 
 - fica o banco de dados 
 - você vai pode recupera aquivos 
