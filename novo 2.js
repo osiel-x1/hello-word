@@ -11,6 +11,7 @@ const Modal = {
     close(){
         // fechar o modal
         // remover a class active do modal
+		// alteração no gitignore
         document
             .querySelector('.modal-overlay')
             .classList
